@@ -5,6 +5,6 @@
     <title>MavenProject</title>
 </head>
 <body>
-    <h1>Welcome To Maven Project</h1>  
+    <h1>Welcome Maven Project</h1>  
 </body>
 </html>
